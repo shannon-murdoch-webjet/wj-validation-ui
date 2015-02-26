@@ -11,7 +11,7 @@
 // @grant        none
 // ==/UserScript==
 
-$("head").append('<link href="http://www.shannonmurdoch.com/webjet/validation_ui/validation_ui.css" rel="stylesheet" type="text/css">');
+$("head").append('<link href="https://raw.githubusercontent.com/sydneyshan/wj-validation-ui/master/validation_ui.css" rel="stylesheet" type="text/css">');
 
 //$('body').css('background-color', 'red');
 console.log('done');
