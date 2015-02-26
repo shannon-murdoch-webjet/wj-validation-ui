@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Webjet validation overhaul
 // @namespace    http://webjet.com.au/
-// @version      0.1
+// @version      0.2
 // @description  enter something useful
 // @author       Shannon Murdoch
 // @match        http://www.webjet.com.au/*
